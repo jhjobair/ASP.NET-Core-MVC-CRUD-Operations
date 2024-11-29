@@ -1,0 +1,32 @@
+﻿@model AspNetMvcCrud2.Models.AddEmployeeViewModel
+   
+
+@{
+}
+
+<h1>Add Employee</h1>
+<form action="Add" Method="post" class="mt-5">
+    <div class="mb-3">
+        <label for="" class="form-lavel">Name</label>
+        <input type="text" class="form-control" asp-for="Name">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Email</label>
+        <input type="email" class="form-control" asp-for="Email">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Salary</label>
+        <input type="number" class="form-control" asp-for="Salary">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Date Of Birth</label>
+        <input type="date" class="form-control" asp-for="DateOfBirth">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Department</label>
+        <input type="text" class="form-control" asp-for="Department">
+    </div>
+ 
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

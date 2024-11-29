@@ -1,0 +1,35 @@
+﻿@model AspNetMvcCrud2.Models.UpdateEmployeeViewModel
+@{
+}
+
+<h1>Edit Employee</h1>
+<form asp-action="Update" Method="post" asp-controller="Employee" class="mt-5">
+    <div class="mb-3">
+        <label for="" class="form-lavel">Id</label>
+        <input type="text" class="form-control" asp-for="Id" readonly>
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Name</label>
+        <input type="text" class="form-control" asp-for="Name">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Email</label>
+        <input type="email" class="form-control" asp-for="Email">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Salary</label>
+        <input type="number" class="form-control" asp-for="Salary">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Date Of Birth</label>
+        <input type="date" class="form-control" asp-for="DateOfBirth">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-lavel">Department</label>
+        <input type="text" class="form-control" asp-for="Department">
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-danger" asp-action="Delete" asp-controller="Employee">Delete</button>
+</form>
