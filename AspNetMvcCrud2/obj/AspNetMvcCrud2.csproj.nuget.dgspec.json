@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\jobair\\mvc project\\AspNetMvcCrud\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj": {}
+    "D:\\jobair\\mvc project\\New folder\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj": {}
   },
   "projects": {
-    "D:\\jobair\\mvc project\\AspNetMvcCrud\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj": {
+    "D:\\jobair\\mvc project\\New folder\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\jobair\\mvc project\\AspNetMvcCrud\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj",
+        "projectUniqueName": "D:\\jobair\\mvc project\\New folder\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj",
         "projectName": "AspNetMvcCrud2",
-        "projectPath": "D:\\jobair\\mvc project\\AspNetMvcCrud\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj",
+        "projectPath": "D:\\jobair\\mvc project\\New folder\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj",
         "packagesPath": "C:\\Users\\rhlen\\.nuget\\packages\\",
-        "outputPath": "D:\\jobair\\mvc project\\AspNetMvcCrud\\AspNetMvcCrud2\\obj\\",
+        "outputPath": "D:\\jobair\\mvc project\\New folder\\AspNetMvcCrud2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhlen\\AppData\\Roaming\\NuGet\\NuGet.Config",

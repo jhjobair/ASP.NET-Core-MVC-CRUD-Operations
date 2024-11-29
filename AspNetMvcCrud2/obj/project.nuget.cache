@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XuP7W+nMKjnM31SlQJzF4U9Z3eb2lS9tz9konLNSXZ2evKiXBEDByuhzTSKxOM7Fl0acXPgUfwdiM4avh5Bvcw==",
+  "dgSpecHash": "n09gGShLTzbDs0rch5bLA9Am0Bw5tQLWRCFcED2PjmF5s7Azc2XiNIB5MsjHwp5wsBvhuOPzWLvmtEjrSSIZaw==",
   "success": true,
-  "projectFilePath": "D:\\jobair\\mvc project\\AspNetMvcCrud\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj",
+  "projectFilePath": "D:\\jobair\\mvc project\\New folder\\AspNetMvcCrud2\\AspNetMvcCrud2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhlen\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\rhlen\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
